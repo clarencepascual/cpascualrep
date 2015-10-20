@@ -1,4 +1,4 @@
 1. story about me
 2. story about me
-3. story about me (changed)
-4. new story about me
+3. story about me [changed]
+4. new story about me[Changes are made]
